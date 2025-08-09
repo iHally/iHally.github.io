@@ -42,6 +42,12 @@ body {
 .gjs-t-link {
 	color:var(--gjs-t-color-primary);
 	text-decoration:underline;
+	font-size:1rem;
+}
+.gjs-t-large-link {
+	color:var(--gjs-t-color-primary);
+	text-decoration:underline;
+	font-size:1.5rem;
 }
 .gjs-t-border {
 	border-radius:0.3rem;
@@ -60,9 +66,10 @@ body {
 #ital4 {
 	height:auto;
 }
-.gjs-t-link {
+.gjs-t-phone {
 	color:var(--gjs-t-color-primary);
-	text-decoration:underline;
+	text-decoration:none;
+	font-size:1.5rem;
 }
 #i2ne8 {
 	color:black;
